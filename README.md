@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/gorsel.png" alt="logo" width="600"/>
+  <img src="https://github.com/thjoksi/thj-twitter-token-checker/blob/main/screen.png" alt="logo" width="600"/>
 </p>
 
 # 🧪 Twitter Account Checker
