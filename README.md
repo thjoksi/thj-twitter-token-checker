@@ -8,6 +8,13 @@ A high-performance Twitter account checker using auth_token and ct0, fully multi
 
 ---
 
+## 🎥 Setup Video
+
+Watch the step-by-step setup guide here:  
+👉 **[Click to watch setup video](https://example.com)**
+
+---
+
 ## 📦 Requirements
 
 - Python 3.10 or higher
@@ -56,7 +63,7 @@ username:password:email:ct0:auth_token
 
 Example:
 ```
-furkan:1234:mail@example.com:ct0value:auth_token_value
+thj:1234:mail@example.com:ct0value:auth_token_value
 ```
 
 ---
