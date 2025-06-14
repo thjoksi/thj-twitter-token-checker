@@ -1,0 +1,19 @@
+{
+    "proxy": "http://",
+    "thread": 500,
+    "followers": true,
+    "follower_ranges": {
+        "valid": [0, 0],
+        "1-29": [1, 29],
+		"30plus": [30, 90],
+        "100plus": [91, 499],
+        "500plus": [500, 999],
+        "1Kplus": [1000, 9999],
+        "10Kplus": [10000, 999999]
+    },
+    "add_followers": false,
+    "add_date": false,
+    "add_tweet": false,
+    "tweet_count_number": 5,
+    "date": false
+}
