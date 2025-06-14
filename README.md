@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thjoksi/thj-twitter-token-checker/blob/main/screen.png" alt="logo" width="600"/>
+  <img src="https://github.com/thjoksi/thj-twitter-token-checker/blob/main/screen.png" alt="logo" width="1000"/>
 </p>
 
 # 🧪 Twitter Account Checker
